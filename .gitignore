@@ -1,0 +1,16 @@
+# Candidate information belongs outside this repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials/
+secrets/
+private/
+candidate-data/
+resumes/
+applications/
+*.pdf
+*.docx
+.DS_Store
+__pycache__/
