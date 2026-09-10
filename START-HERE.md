@@ -1,5 +1,7 @@
 # Start here: your personal career assistant
 
+**English** · [Deutsch](START-HERE-DE.md)
+
 You do not need to code, use a terminal, or understand GitHub. This package gives your AI assistant a repeatable career workflow. You bring your experience and make the important decisions.
 
 The first session is successful when the assistant understands your goals, verifies your own RX Resume account, and creates a resume draft you can inspect. Start with one application before relying on the whole process.

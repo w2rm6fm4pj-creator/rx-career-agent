@@ -1,5 +1,7 @@
 # RX Career Agent
 
+**Choose your language / Sprache wählen:** [English: Start here](START-HERE.md) · [Deutsch: Hier starten](START-HERE-DE.md)
+
 Your AI assistant's guide to understanding your experience, finding suitable jobs, creating tailored resumes in Reactive Resume, and preparing applications for your approval.
 
 **New here? Read [Start here: your personal career assistant](START-HERE.md).** It walks through Codex or Claude setup, creating your own RX account, connecting it, and your first application. No coding or Git knowledge required.
